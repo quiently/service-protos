@@ -1,4 +1,4 @@
-GEN_AUTH_GO_PATH = ./gen/auth/go
+GEN_AUTH_GO_PATH = ./gen/go
 
 .PHONY: go-auth
 go-auth: 
